@@ -2,3 +2,4 @@ pycryptodome
 google-search
 futures
 google 
+Crypto
