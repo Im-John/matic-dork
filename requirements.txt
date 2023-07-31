@@ -1,2 +1,4 @@
+pycryptodome
 google-search
-python3
+futures
+google 
