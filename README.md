@@ -1,7 +1,7 @@
 # Matic-dork
 <html>
 <img src="https://i.ibb.co/vHCHgY9/IMG-20230729-174806-564.jpg" width="100%">
-<b> A Platoon Cyber Group that can <a style="color: blue">automatic dorking</a> for you.. 😸</b></html>
+<b> A Platoon Cyber Group tool that can <a style="color: blue">automatic dorking</a> for you.. 😸</b></html>
 
 # Command
 <html>
