@@ -12,6 +12,7 @@
 • <code> apt install python3 -y </code><br>
 • <code> apt install pip -y </code><br>
 • <code> apt install pip3 -y </code><br>
+• <code> pip install --upgrade pip -y </code><br>
 • <code> git clone https://github.com/Im-John/matic-dork </code><br>
 • <code> pip install -r requirements.txt </code><br>
 • <code> cd matic-dork </code><br>
