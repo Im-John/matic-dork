@@ -33,6 +33,7 @@ Just add your dork and count how many sites you want to dork.. Btw pag di kaya w
 • Oblivion<br>
 • Paradox<br>
 • John<br>
+• Trak3r
 
 # Matic-dork
 <html><b> A Platoon Cyber Group that can <a style="color: blue">automatic dorking</a> for you.. 😸</b></html>
