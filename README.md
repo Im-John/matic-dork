@@ -36,8 +36,5 @@ Just add your dork and count how many sites you want to dork.. Btw pag di kaya w
 • John<br>
 • Trak3r
 
-# Matic-dork
-<html><b> A Platoon Cyber Group that can <a style="color: blue">automatic dorking</a> for you.. 😸</b></html>
-
 # Grettings
 • To all Red Team Alliance/PCA & Platoon Cyber Group Members & Victors..
