@@ -26,11 +26,10 @@
 # How to use
 Just add your dork and count how many sites you want to dork.. Btw pag di kaya wag nalang pilitin make sure na my signal ka para walang error na lalabas. and Make sure na na install mo yong requirements thanks hope you enjoy my tool 😸
 
-# Try John Dork
+# Try This Dork
 • <code> nurl: product.php?id= site.in </code><br>
-
-# Try Azki Dork
 • <code> inurl:"product-item.php?id=" site:.in </code><br>
+• <code> inurl:"admin/login" site:.pk </code><br>
 
 # Greetings Platoon Cyber Group Officers
 • Azki<br>
